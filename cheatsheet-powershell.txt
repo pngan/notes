@@ -1,0 +1,3 @@
+ 
+# The the thumbprint of an pfx certificate (needs password)
+Get-PfxCertificate -FilePath <pfxfile>
